@@ -9,9 +9,9 @@ You can get this board from Tindie shop:
 
 <img src="https://raw.githubusercontent.com/nardev/esp-rfid-wiegand-board/master/images/esp-wiegand-rfid-04.jpg" width="" />&nbsp;&nbsp;
 
-<img src="https://raw.githubusercontent.com/nardev/esp-rfid-wiegand-board/master/images/esp-wiegand-rfid-03.jpg" width="300" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/nardev/esp-rfid-wiegand-board/master/images/esp-wiegand-rfid-02.jpg" width="300" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/nardev/esp-rfid-wiegand-board/master/images/esp-wiegand-rfid-01.jpg" width="300" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/nardev/esp-rfid-wiegand-board/master/images/esp-wiegand-rfid-03.jpg" width="280" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/nardev/esp-rfid-wiegand-board/master/images/esp-wiegand-rfid-02.jpg" width="280" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/nardev/esp-rfid-wiegand-board/master/images/esp-wiegand-rfid-01.jpg" width="280" />&nbsp;&nbsp;
 
 * BOM has some mistakes, contact me if you need some help.
 
