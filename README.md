@@ -10,20 +10,20 @@ Check the image for explanation of how to hook up the reader
 
 <img src="https://raw.githubusercontent.com/nardev/esp-rfid-wiegand-board/master/images/esp-rfid-wiegand-board.png" width="" />&nbsp;&nbsp;
 
-* There is a resistor on the way from ESP to buzzer due to strange behaviour of busser that ditn't react to HIGN/LOW except if there is a resitor on the way from ESP to Wiegand reader.
+** There is a resistor on the way from ESP to buzzer due to strange behaviour of busser that ditn't react to HIGN/LOW except if there is a resitor on the way from ESP to Wiegand reader.
 
 Custom pads
 
 <img src="https://raw.githubusercontent.com/nardev/esp-rfid-wiegand-board/master/images/esp-wiegand-rfid-05.jpg" width="100" />&nbsp;&nbsp;
-* New board has marked pads
+** New board has marked pads
 
-Option 1:
+*Option 1:*
 Solder 2 and 1 on both pads results in passing “Ring” tactile switch/button to ESP8266 pin GPIO14
 
-Option 2:
+*Option 2:*
 Solder 3 and 2 on both pads results in passing “Ring” switch to a terminal on  another side of board.
 
-Option 3:
+*Option 3:*
 Solder 1 and 3 on both pads results in passing terminal pins to ESP8266 GPIO14, planned so that you can hook door status magnet sensor. In this case, you can’t use “Ring” button in Option 1. or 2.
 
 
