@@ -14,8 +14,8 @@ Check the image for explanation of how to hook up the reader
 
 Custom pads
 
-<img src="https://raw.githubusercontent.com/nardev/esp-rfid-wiegand-board/master/images/esp-wiegand-rfid-05.jpg" width="" />&nbsp;&nbsp;
-
+<img src="https://raw.githubusercontent.com/nardev/esp-rfid-wiegand-board/master/images/esp-wiegand-rfid-05.jpg" width="100" />&nbsp;&nbsp;
+* New board has marked pads
 
 Option 1:
 Solder 2 and 1 on both pads results in passing “Ring” tactile switch/button to ESP8266 pin GPIO14
