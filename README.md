@@ -15,6 +15,7 @@ Check the image for explanation of how to hook up the reader
 Custom pads
 
 <img src="https://raw.githubusercontent.com/nardev/esp-rfid-wiegand-board/master/images/esp-wiegand-rfid-05.jpg" width="250" />&nbsp;&nbsp;
+<br>
 ** New board has marked pads
 
 **Option 1:**
