@@ -4,6 +4,13 @@ Small ESP12F breakout board, custom built for Wiegand RFID readers.
 
 
 
+<img src="https://raw.githubusercontent.com/nardev/esp-rfid-wiegand-board/master/images/esp-wiegand-rfid-04.jpg" widgth="" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/nardev/esp-rfid-wiegand-board/master/images/esp-wiegand-rfid-03.jpg" widgth="" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/nardev/esp-rfid-wiegand-board/master/images/esp-wiegand-rfid-02.jpg" widgth="" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/nardev/esp-rfid-wiegand-board/master/images/esp-wiegand-rfid-01.jpg" widgth="" />&nbsp;&nbsp;
+
+
+
 * BOM has some mistakes, contact me if you need some help.
 
 
