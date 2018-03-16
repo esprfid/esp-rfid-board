@@ -2,6 +2,9 @@
 
 Small ESP12F breakout board, custom built for Wiegand RFID readers.
 
+<a href="https://www.tindie.com/stores/nardev/?ref=offsite_badges&utm_source=sellers_nardev&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
+
+
 You can get this board from Tindie shop:
 
 WARNING: Although it’s rated more, i strongly suggest to use maximum of 12V input!
@@ -28,12 +31,6 @@ Solder 3 and 2 on both pads results in passing “Ring” switch to a terminal o
 Solder 1 and 3 on both pads results in passing terminal pins to ESP8266 GPIO14, planned so that you can hook door status magnet sensor. In this case, you can’t use “Ring” button in Option 1. or 2.
 
 
-
-
-
-<a href="https://www.tindie.com/stores/nardev/?ref=offsite_badges&utm_source=sellers_nardev&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
-
-
 <img src="https://raw.githubusercontent.com/nardev/esp-rfid-wiegand-board/master/images/esp-wiegand-rfid-04.jpg" width="" />&nbsp;&nbsp;
 
 <img src="https://raw.githubusercontent.com/nardev/esp-rfid-wiegand-board/master/images/esp-wiegand-rfid-03.jpg" width="280" />&nbsp;&nbsp;
@@ -41,5 +38,3 @@ Solder 1 and 3 on both pads results in passing terminal pins to ESP8266 GPIO14, 
 <img src="https://raw.githubusercontent.com/nardev/esp-rfid-wiegand-board/master/images/esp-wiegand-rfid-01.jpg" width="280" />&nbsp;&nbsp;
 
 * BOM has some mistakes, contact me if you need some help.
-
-
