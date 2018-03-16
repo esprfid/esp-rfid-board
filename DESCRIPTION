@@ -1,0 +1,20 @@
+<h1>ESP12F with ACT4088</h1>
+
+<p>
+<strong>REV 0.1:</strong><br>
+- Just project by the scatch for ACT4088 <br><br>
+
+<strong>REV 0.12:</strong><br>
+- Tried to connect pin2 and pin3 on ACT4088 due to  some problems
+- Reversing D2 polarity
+<br><br>
+<strong>REV 0.13:</strong><br>
+C5 220uF added  for ESP12 current/voltage spikes<br><br>
+<strong>REV 0.15:</strong><br>
+The FLASH and RESET buttons connected, it was an error there!!!<br><br>
+<strong>REV 0.16:</strong><br>
+Pin EN(3) cut off, let to be free.<br><br>
+</p>
+
+<h5>For AdvanceIT by Vedran Alajbegovic</h5>
+<h5>vedran@nardev.org</h5>
