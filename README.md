@@ -8,7 +8,7 @@ Small ESP12F breakout board, custom built for Wiegand RFID readers.
 </a>
 
 
-WARNING: Although it’s rated more, i strongly suggest to use maximum of 12V input!
+WARNING: Although it’s rated for more than 12V, i strongly suggest to use maximum of 12V input!
 
 Check the image for explanation of how to hook up the reader
 
